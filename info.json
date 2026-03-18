@@ -2,10 +2,10 @@
   "name": "Kingdom Inspirational Slider",
   "slug": "kingdom-inspirational-slider",
   "version": "1.3.1",
-  "download_url": "https://kingdomwebservices.com/kingdom-updates/kis/downloads/kingdom-inspirational-slider-1.3.1.zip",
+  "download_url": "https://github.com/kingdom-update/kis/releases/download/1.3.1/kingdom-inspirational-slider-1.3.1.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "Displays a looping inspirational slider with presets and custom slides.",
-    "changelog": "<h4>1.2.0</h4><ul><li>Added Elementor widget support.</li><li>Improved Elementor builder preview rendering.</li><li>Updated slider width to follow its container instead of using a fixed max-width.</li><li>Fixed continuous looping so slides restart seamlessly without blank gaps.</li></ul>"
+    "changelog": "<h4>1.3.1</h4><ul><li>Added Elementor widget support.</li><li>Improved Elementor builder preview rendering.</li><li>Updated slider width to follow its container instead of using a fixed max-width.</li><li>Fixed continuous looping so slides restart seamlessly without blank gaps.</li></ul>"
   }
 }
